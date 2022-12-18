@@ -1,0 +1,15 @@
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\bin\Debug\net6.0\Prime Numbers.exe
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\bin\Debug\net6.0\Prime Numbers.deps.json
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\bin\Debug\net6.0\Prime Numbers.runtimeconfig.json
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\bin\Debug\net6.0\Prime Numbers.dll
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\bin\Debug\net6.0\Prime Numbers.pdb
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.csproj.AssemblyReference.cache
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.AssemblyInfoInputs.cache
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.AssemblyInfo.cs
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.csproj.CoreCompileInputs.cache
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.dll
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\obj\Debug\net6.0\refint\Prime Numbers.dll
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.pdb
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\obj\Debug\net6.0\Prime Numbers.genruntimeconfig.cache
+D:\test projects\c#\Tasks\Descrete\prime numbers\Prime Numbers\Prime Numbers\obj\Debug\net6.0\ref\Prime Numbers.dll
